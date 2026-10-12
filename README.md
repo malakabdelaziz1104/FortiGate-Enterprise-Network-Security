@@ -20,11 +20,18 @@ I independently implemented 50 practical tasks as part of my FortiGate Firewall 
 - Link Aggregation
 - Static Routing
 
+
+#### Network Interfaces Configuration
+![FortiGate Network Interfaces](screenshots/netwrok%20interfaces.png)
+
 ### 2. Firewall Administration
 - Firewall Policies and Address Objects
 - NAT and Virtual IPs (DNAT)
 - Policy-Based Routing
 - Administrator Accounts, Access Profiles, and Trusted Hosts
+
+#### Firewall Policies Configuration
+![FortiGate Firewall Policies](screenshots/polices%20with%20security%20prof.png)
 
 ### 3. Authentication & Access Control
 - LDAP integration with Windows Server
@@ -37,12 +44,21 @@ I independently implemented 50 practical tasks as part of my FortiGate Firewall 
 - Application Control
 - Intrusion Prevention System (IPS)
 - SSL Deep Inspection and Certificate Configuration
+- 
+#### Web Filtering Configuration
+![FortiGate Web Filtering](screenshots/webfilter.png)
+
+#### IPS Configuration
+![FortiGate IPS](screenshots/IPS-CLIENT.png)
 
 ### 5. Traffic Management & SD-WAN
 - Traffic Shaping and Bandwidth Management
 - Multi-ISP SD-WAN Configuration
 - Performance SLA and SLA Rules
 - Application Steering and Load Balancing
+
+#### SD-WAN Configuration
+![FortiGate SD-WAN](screenshots/sd-wan.png)
 
 ### 6. VPN & Secure Connectivity
 - SSL-VPN
@@ -53,6 +69,9 @@ I independently implemented 50 practical tasks as part of my FortiGate Firewall 
 - Security Fabric Automation
 - Email Alerts for Critical Events
 - Encrypted Configuration Backup
+
+#### High Availability (Active-Passive)
+![FortiGate HA Cluster](screenshots/HA%20successfully.png)
 
 ## Project Screenshots
 
