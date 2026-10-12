@@ -1,4 +1,4 @@
-# FortiGate Enterprise Network Security – Final Project
+# FortiGate Enterprise Network Security | 50 Hands-on Tasks
 
 **Engineer:** Malak Abdelaziz  
 **Project Type:** Individual Hands-on Final Project  
@@ -61,28 +61,30 @@ Configured source and destination address objects, services, and security profil
 - Intrusion Prevention System (IPS)
 - SSL Deep Inspection and Certificate Configuration
 - 
-#### Web Filtering Configuration
-![FortiGate Web Filtering](screenshots/webfilter.png)
 
-#### IPS Configuration
-![FortiGate IPS](screenshots/IPS-CLIENT.png)
+#### Web Filtering Configuration
+
+![FortiGate Web Filtering](screenshots/webfilter.png)
 
 **Implementation:**
 
 Configured Web Filtering policies to control access to website categories and apply browsing restrictions.
 
-Integrated security profiles with firewall policies to enforce security requirements on matching traffic.
+Integrated Web Filtering profiles with firewall policies to enforce organizational browsing policies.
 
-**Purpose:** Improve web access security and enforce organizational browsing policies.
+**Purpose:** Improve web access security and control access to restricted websites.
+
+#### IPS Configuration
+
+![FortiGate IPS](screenshots/IPS-CLIENT.png)
 
 **Implementation:**
 
-Configured an Intrusion Prevention System (IPS) security profile to inspect network traffic for known attack patterns and suspicious activity.
+Configured Intrusion Prevention System (IPS) profiles to inspect network traffic for known attack patterns and suspicious activity.
 
-Associated IPS protection with relevant firewall policies.
+Applied IPS profiles to relevant firewall policies to strengthen network protection.
 
-**Purpose:** Strengthen network security through threat detection and prevention.
-
+**Purpose:** Detect and prevent network-based threats.
 
 ### 5. Traffic Management & SD-WAN
 - Traffic Shaping and Bandwidth Management
@@ -129,6 +131,13 @@ Configuration screenshots covering the project's major components are available 
 ## Key Learning Outcomes
 
 Through this project, I strengthened my practical skills in FortiGate firewall administration, network segmentation, identity-based access control, security policies, VPN connectivity, network availability, and troubleshooting.
+
+## Testing & Validation
+
+The configured network environment was tested throughout the project to verify connectivity, firewall policy behavior, user authentication, and the operation of implemented security features.
+
+The project was completed independently as a practical final assessment covering 50 integrated FortiGate configuration tasks.
+
 
 ## Author
 
